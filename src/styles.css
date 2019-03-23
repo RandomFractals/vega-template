@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+#vega-container {
+  width: 360px;
+  height: 360px;
+}
