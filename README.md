@@ -17,3 +17,13 @@ npm run build
 npm run start
 ```
 go to http://localhost:1234 to preview it
+
+## Simple Vega Online
+
+See [Observing Vega Signals](https://observablehq.com/@randomfractals/observing-vega-signals)
+[Observable](https://github.com/observablehq) jsNotebook for a simple version of this web app template
+
+OR
+
+[Interactive Vega Lite Bar Chart](https://codesandbox.io/s/wkzx1082nw) demo 
+on [CodeSandbox](https://codesandbox.io/)
