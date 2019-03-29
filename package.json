@@ -1,6 +1,6 @@
 {
   "name": "vega-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Vega project template",
   "keywords": [
     "vega",
@@ -21,9 +21,9 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "vega": "^5.3.1",
-    "vega-lite": "^3.0.0-rc16",
-    "vega-embed": "^3.30.0"
+    "vega": "^5.3.2",
+    "vega-lite": "^3.0.3",
+    "vega-embed": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.4.0",
