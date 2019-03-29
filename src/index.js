@@ -55,8 +55,12 @@ function main() {
   };
 
   vegaEmbed("#vega-container", vegaSpec, { mode: "vega-lite" })
-    .then(function(result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    .then(result => {
+      // add bar selection handler
+      // see: https://vega.github.io/vega/docs/api/view/
+      result.view.addSignalListener("barSelection", (name, value) => {
+        console.log('selected', value);
+      });
     })
     .catch(error => {
       console.error("vega:error", error);
