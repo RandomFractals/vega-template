@@ -21,9 +21,13 @@ go to http://localhost:1234 to preview it
 ## Simple Vega Online
 
 See [Observing Vega Signals](https://observablehq.com/@randomfractals/observing-vega-signals)
-[Observable](https://github.com/observablehq) jsNotebook for a simple version of this web app template
+jsNotebook on [Observable](https://github.com/observablehq) for a simple version of this web app template
 
 OR
 
 [Interactive Vega Lite Bar Chart](https://codesandbox.io/s/wkzx1082nw) demo 
 on [CodeSandbox](https://codesandbox.io/)
+
+OR 🏃‍♂️ & 🍴 it on [CodeSandbox](https://codesandbox.io/): [vega-template](https://codesandbox.io/s/6lzn1398wr)
+
+Cheers! 🍻
